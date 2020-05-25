@@ -1,0 +1,32 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "firstname": "Engin",
+      "lastname": "Arslan",
+      "mail": "ennginarslan@gmail.com",
+      "phone": "554431230X"
+    },
+    {
+      "id": 2,
+      "firstname": "Mustafa",
+      "lastname": "Arslan",
+      "mail": "mustafaarslan@gmail.com",
+      "phone": "5545452435"
+    },
+    {
+      "id": 3,
+      "firstname": "Furkan",
+      "lastname": "Bayraktar",
+      "mail": "blisfurkan@gmail.com",
+      "phone": "5545453524"
+    },
+    {
+      "id": 4,
+      "firstname": "Hakan Eren",
+      "lastname": "Şan",
+      "mail": "hakanerensan@gmail.com",
+      "phone": "5352679071"
+    }
+  ]
+}
